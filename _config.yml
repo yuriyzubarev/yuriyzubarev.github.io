@@ -3,3 +3,7 @@ email: yuriyzubarev7@gmail.com
 description: ''
 
 theme: jekyll-theme-architect
+
+include:
+    - _pages
+
